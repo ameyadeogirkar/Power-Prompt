@@ -1,0 +1,13 @@
+english en
+
+hindi hi
+
+greek el
+
+spanish es
+
+french fr
+
+russian ru
+
+sanskrit sa
